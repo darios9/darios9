@@ -1,67 +1,86 @@
-<div align="center" width="50">
-    <img alt="wijegoonawardana.com" src="./assets/oh hi there.png" width="300"/>
+<div align="center">
+  <img alt="Bienvenido" src="./assets/oh-hi-there.png" width="300"/>
 </div>
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, SOY DARIO SIMON </h1>
 
-![GitHub followers](https://img.shields.io/github/followers/AnushkaWijegoonawardana97?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/AnushkaWijegoonawardana97?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=AnushkaWijegoonawardana97.repoName) <img src="https://komarev.com/ghpvc/?username=AnushkaWijegoonawardana97" alt="AnushkaWijegoonawardana97" />
+<h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, Soy Dario Simon</h1>
 
-## About Me :
-
-- 🏢 I am currently working as a **Senior Software Engineer** at [HCL Technologies Lanka](https://hclsrilanka.com/contact-us/)
-- 🏢 Former **Software Engineer** at [iLabs](https://www.ilabs.lk/)
-- 🎓 Studies for Software Engineering at [London Metropolitan University](https://www.londonmet.ac.uk/)
-- 🎓 Studies for BCS HEQ at [Matrix Institute of Information Technology](http://www.matrix-edu.com/)
-- 🏡'Lives in **Dalugama Sri Lanka**
-- ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
-
-<br>
-
-## Connect with me ☕ :
-
-<br>
-
-[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "@anushkawijegoonawardana97")](https://www.instagram.com/anushkawijegoonawardana97/) [![@AnushkaWijegoonawardana97](https://img.icons8.com/fluency/48/000000/facebook.png "@AnushkaWijegoonawardana97")](https://www.facebook.com/AnushkaWijegoonawardana97) [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/anushkawijegoonawardana97/) [![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://twitter.com/anushka_wije) [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711971313")](tel:0711971313) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](anushkaduwolka123@gmail.com)
-
-<br>
-
-## What I am Good at 🧑‍💻 :
-
-<br>
-
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/sass.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/nextjs.png"/>
-
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/> <img src="https://img.icons8.com/fluency/48/000000/wordpress.png"/>
-
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
-
-<img src="https://img.icons8.com/color/48/000000/npm.png"/>
-
-<br>
-
-## GitHub Stats 📈 :
-
-<br>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnushkaWijegoonawardana97&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![AnushkaWijegoonawardana97 GitHub stats](https://github-readme-stats.vercel.app/api?username=AnushkaWijegoonawardana97&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaWijegoonawardana97&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats) [![AnushkaWijegoonawardana97 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WinterWolf97&theme=algolia)](https://github.com/WinterWolf97/github-readme-stats)
-
-<br>
-
-## GitHub Thropies 🏆 :
-
-<br>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AnushkaWijegoonawardana97)](https://github.com/AnushkaWijegoonawardana97/github-profile-trophy)
-
-<br>
-
-## Activity Graph 📊 :
-
-<br>
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AnushkaWijegoonawardana97&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <a href="https://github.com/TuUsuario">
+    <img src="https://img.shields.io/github/followers/TuUsuario?style=social" alt="GitHub followers">
+    <img src="https://img.shields.io/github/stars/TuUsuario?style=social" alt="GitHub stars">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=TuUsuario.TuUsuario" alt="Profile views">
+    <img src="https://komarev.com/ghpvc/?username=TuUsuario" alt="Profile Views Counter">
+  </a>
+</p>
 
 ---
 
-Credit: [AnushkaWijegoonawardana97](https://github.com/AnushkaWijegoonawardana97)
+## 👨‍💻 Sobre mí
 
-Last edited on: 30/06/2022
+- 🎓 Estudiante de Ingeniería en Ciencias y Sistemas en la Universidad de San Carlos de Guatemala.
+- 🛠️ Apasionado por el desarrollo backend, compiladores y sistemas.
+- 💻 Me encanta trabajar con Java, C#, Python, Node.js, y tecnologías de análisis léxico/sintáctico como JFlex, CUP y ANTLR.
+- 🚀 Actualmente estoy buscando oportunidades como **Desarrollador Backend Junior**.
+- 🎯 Mis objetivos: crecer profesionalmente, aprender tecnologías nuevas y aportar a proyectos reales.
+
+---
+
+## 📬 Conecta conmigo
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/tuusuario/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="mailto:tuemail@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="Email"/></a>
+  <a href="https://wa.me/502tuNumero"><img src="https://img.icons8.com/fluency/48/000000/whatsapp.png" alt="WhatsApp"/></a>
+</p>
+
+---
+
+## 🧠 Tecnologías que manejo
+
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> 
+<img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> 
+<img src="https://img.icons8.com/color/48/000000/python--v1.png"/> 
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> 
+<img src="https://img.icons8.com/ios/48/000000/c-programming.png"/> 
+
+<img src="https://img.icons8.com/fluency/48/000000/node-js.png"/> 
+<img src="https://img.icons8.com/fluency/48/000000/react.png"/> 
+<img src="https://img.icons8.com/color/48/000000/angularjs.png"/> 
+
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> 
+<img src="https://img.icons8.com/ios/48/000000/sql.png"/> 
+<img src="https://img.icons8.com/fluency/48/000000/docker.png"/> 
+<img src="https://img.icons8.com/color/48/000000/git.png"/> 
+<img src="https://img.icons8.com/color/48/000000/github--v1.png"/> 
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=algolia" alt="GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TuUsuario&theme=algolia" alt="GitHub streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuUsuario&layout=compact&theme=algolia" alt="Top languages"/>
+</p>
+
+---
+
+## 🏆 Trofeos
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TuUsuario&theme=algolia" alt="GitHub trophies"/>
+</p>
+
+---
+
+## 📈 Actividad
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=TuUsuario&bg_color=000000&color=00FFAA&line=00FFAA&point=FFFFFF&hide_border=true" alt="Activity graph"/>
+</p>
+
+---
+
+✍️ *Actualizado por Dario Simon – julio 2025*
+
+
