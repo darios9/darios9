@@ -29,7 +29,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/tuusuario/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="mailto:tuemail@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="Email"/></a>
+  <a href="mailto:dioniciod6@mail.com"><img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="Email"/></a>
   <a href="https://wa.me/502tuNumero"><img src="https://img.icons8.com/fluency/48/000000/whatsapp.png" alt="WhatsApp"/></a>
 </p>
 
