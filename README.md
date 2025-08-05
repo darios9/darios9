@@ -69,7 +69,6 @@
 </p>
 
 ---
-
 ## 📈 Actividad
 
 <p align="center">
