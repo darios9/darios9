@@ -5,7 +5,7 @@
 <h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, Soy Dario Simon</h1>
 
 <p align="center">
-  <a href="https://github.com/TuUsuario">
+  <a href="https://github.com/darios9">
     <img src="https://img.shields.io/github/followers/TuUsuario?style=social" alt="GitHub followers">
     <img src="https://img.shields.io/github/stars/TuUsuario?style=social" alt="GitHub stars">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=TuUsuario.TuUsuario" alt="Profile views">
@@ -28,7 +28,7 @@
 ## 📬 Conecta conmigo
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/tuusuario/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/darios9/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn"/></a>
   <a href="mailto:dioniciod6@mail.com"><img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="Email"/></a>
   <a href="https://wa.me/502tuNumero"><img src="https://img.icons8.com/fluency/48/000000/whatsapp.png" alt="WhatsApp"/></a>
 </p>
