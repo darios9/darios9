@@ -54,10 +54,10 @@
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  https://github-readme-stats.vercel.app/api?username=darios9&show_icons=true&theme=algolia
-  https://github-readme-streak-stats.herokuapp.com/?user=darios9&theme=algolia
+  <img src="https://github-readme-stats.vercel.app/api?username=darios9&show_icons=true&theme=algolia" alt="GitHub statsak-stats.herokuapp.com/?user=darios9&theme=algolia
   https://github-readme-stats.vercel.app/api/top-langs/?username=darios9&layout=compact&theme=algolia
 </p>
+
 
 
 ---
