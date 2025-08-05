@@ -73,8 +73,9 @@
 ## 📈 Actividad
 
 <p align="center">
-  https://github-readme-activity-graph.vercel.app/graph?username=darios9&bg_color=000000&color=00FFAA&line=00FFAA&point=FFFFFF&hide_border=true
+  <img src="thub-readme-activity-graph.vercel.app/graph?username=darios9&bg_color=000000&color=00FFAA&line=00FFAA&point=FFFFFF&hide_border=true
 </p>
+
 
 ---
 
