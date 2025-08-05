@@ -65,7 +65,7 @@
 ## 🏆 Trofeos
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TuUsuario&theme=algolia" alt="GitHub trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=darios9&theme=algolia" alt="GitHub trophies"/>
 </p>
 
 ---
@@ -73,7 +73,7 @@
 ## 📈 Actividad
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=TuUsuario&bg_color=000000&color=00FFAA&line=00FFAA&point=FFFFFF&hide_border=true" alt="Activity graph"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=darios9&bg_color=000000&color=00FFAA&line=00FFAA&point=FFFFFF&hide_border=true" alt="Activity graph"/>
 </p>
 
 ---
