@@ -54,10 +54,11 @@
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=algolia" alt="GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TuUsuario&theme=algolia" alt="GitHub streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuUsuario&layout=compact&theme=algolia" alt="Top languages"/>
+  https://github-readme-stats.vercel.app/api?username=darios9&show_icons=true&theme=algolia
+  https://github-readme-streak-stats.herokuapp.com/?user=darios9&theme=algolia
+  https://github-readme-stats.vercel.app/api/top-langs/?username=darios9&layout=compact&theme=algolia
 </p>
+
 
 ---
 
