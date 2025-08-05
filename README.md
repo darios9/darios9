@@ -73,7 +73,7 @@
 ## 📈 Actividad
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=darios9&bg_color=000000&color=00FFAA&line=00FFAA&point=FFFFFF&hide_border=true" alt="Activity graph"/>
+  https://github-readme-activity-graph.vercel.app/graph?username=darios9&bg_color=000000&color=00FFAA&line=00FFAA&point=FFFFFF&hide_border=true
 </p>
 
 ---
