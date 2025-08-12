@@ -23,7 +23,6 @@
 - 🎓 Estudiante de Ingeniería en Ciencias y Sistemas en la Universidad de San Carlos de Guatemala.
 - 🛠️ Apasionado por el desarrollo backend, compiladores y sistemas.
 - 💻 Me encanta trabajar con Java, C#, Python, Node.js, y tecnologías de análisis léxico/sintáctico como JFlex, CUP y ANTLR.
-- 🚀 Actualmente estoy buscando oportunidades como **Desarrollador Backend Junior**.
 - 🎯 Mis objetivos: crecer profesionalmente, aprender tecnologías nuevas y aportar a proyectos reales.
 
 ---
@@ -33,7 +32,6 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/darios9/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn"/></a>
   <a href="mailto:dioniciod6@mail.com"><img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="Email"/></a>
-  <a href="https://wa.me/502tuNumero"><img src="https://img.icons8.com/fluency/48/000000/whatsapp.png" alt="WhatsApp"/></a>
 </p>
 
 ---
