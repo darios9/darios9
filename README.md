@@ -30,7 +30,7 @@
 ## 📬 Conecta conmigo
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/darios9/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/darios9/"><img src="https://www.linkedin.com/in/dionicio-dario-simon-bal-7604b5337/" alt="LinkedIn"/></a>
   <a href="mailto:dioniciod6@mail.com"><img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="Email"/></a>
 </p>
 
