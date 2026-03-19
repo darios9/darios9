@@ -1,13 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Dario+Simon;Estudiante+de+Ingeniería;Apasionado+por+el+Backend" alt="Typing SVG" />
 
-  <p align="center">
-    <a href="https://github.com/darios9">
-      <img src="https://img.shields.io/github/followers/darios9?label=Followers&style=for-the-badge&color=2ecc71&logo=github" alt="GitHub followers">
-      <img src="https://img.shields.io/github/stars/darios9?label=Stars&style=for-the-badge&color=f1c40f&logo=github" alt="GitHub stars">
-    </a>
-  </p>
-</div>
 
 <p align="center">
   <a href="https://github.com/darios9">
