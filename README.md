@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Dario+Simon;Estudiante+de+Ingeniería;Apasionado+por+el+Backend" alt="Typing SVG" />
-
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Hola,%20soy%20Dario%20Simon&fontSize=50&animation=fadeIn" />
+</div>
 
 <p align="center">
   <a href="https://github.com/darios9">
