@@ -61,32 +61,6 @@
 
 ---
 
-<div align="center">
-
-<a href="https://github.com/darios9/NOMBRE_DE_TU_REPO_1">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=darios9&repo=NOMBRE_DE_TU_REPO_1&theme=algolia&show_owner=true" />
-</a>
-
-<a href="https://github.com/darios9/NOMBRE_DE_TU_REPO_2">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=darios9&repo=NOMBRE_DE_TU_REPO_2&theme=algolia&show_owner=true" />
-</a>
-
-</div>
-
-<br />
-
-<div align="center">
-
-<a href="https://github.com/darios9/NOMBRE_DE_TU_REPO_3">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=darios9&repo=NOMBRE_DE_TU_REPO_3&theme=algolia&show_owner=true" />
-</a>
-
-<a href="https://github.com/darios9/NOMBRE_DE_TU_REPO_4">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=darios9&repo=NOMBRE_DE_TU_REPO_4&theme=algolia&show_owner=true" />
-</a>
-
-</div>
-
 ## 📬 Conecta conmigo
 
 <p align="left">
