@@ -63,7 +63,7 @@
 
 <div align="center">
 
-  <a href="https://github.com/darios9/NOMBRE_DE_TU_PROYECTO">
+  <a href="https://github.com/darios9/olc1_proyecto2_201905487">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=darios9&repo=NOMBRE_DE_TU_PROYECTO&theme=algolia" />
   </a>
 
