@@ -63,27 +63,9 @@
 
 <div align="center">
 
-<a href="https://github.com/darios9/olc1_proyecto2_201905487">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=darios9&repo=NOMBRE_DE_TU_REPO_1&theme=algolia&show_owner=true" />
-</a>
-
-<a href="https://github.com/darios9/LFP-Proyecto1_201905487">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=darios9&repo=NOMBRE_DE_TU_REPO_2&theme=algolia&show_owner=true" />
-</a>
-
-</div>
-
-<br />
-
-<div align="center">
-
-<a href="https://github.com/darios9/EDD_PROYECTO_1">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=darios9&repo=NOMBRE_DE_TU_REPO_3&theme=algolia&show_owner=true" />
-</a>
-
-<a href="https://github.com/darios9/IPC2_Proyecto1_201905487">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=darios9&repo=NOMBRE_DE_TU_REPO_4&theme=algolia&show_owner=true" />
-</a>
+  <a href="https://github.com/darios9/NOMBRE_DE_TU_PROYECTO">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=darios9&repo=NOMBRE_DE_TU_PROYECTO&theme=algolia" />
+  </a>
 
 </div>
 
