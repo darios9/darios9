@@ -15,10 +15,13 @@
 
 <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="220" alt="coding-gif" />
 
-* 🎓 **Estudiante de Ingeniería en Ciencias y Sistemas** en la USAC.
-* 🛠️ "Con un fuerte interés en la arquitectura de Sistemas, desarrollo Backend y Compiladores."
-* 💻 Domino herramientas como **JFlex, CUP y ANTLR**.
-* 🎯 Enfocado en crear software eficiente y de alto rendimiento.
+🎓 Estudiante de Ingeniería en Ciencias y Sistemas en la USAC.
+
+⚙️ Enfocado en la arquitectura de Sistemas, desarrollo Backend y Compiladores.
+
+🛠️ Experiencia práctica con herramientas de análisis gramatical (JFlex, CUP y ANTLR).
+
+🎯 Buscando crear software eficiente, escalable y de alto rendimiento.
 
 ---
 
