@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hola, soy Dario Simon</h1>
-  <p><b>Estudiante de Ingeniería en Ciencias y Sistemas | Backend & Compiladores</b></p>
+  <p><b>Estudiante de Ingeniería en Ciencias y Sistemas </b></p>
 </div>
 
 <p align="center">
