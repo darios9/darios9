@@ -96,7 +96,7 @@
 ## 📬 Conecta conmigo
 
 <p align="left">
-  <a href="https://www.linkedin.com/dionicio-dario-simon-bal-756318b7/">
+  <a href="https://www.linkedin.com/dionicio-dario-simon-bal-756318b7">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:dioniciod6@mail.com">
