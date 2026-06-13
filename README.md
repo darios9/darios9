@@ -61,26 +61,28 @@
 <div align="center">
   <table>
     <tr>
-      <td width="50%" align="center">
-        <b>LENGUAJE Y COMPILADORES</b><br />
+      <td width="50%" align="center" valign="top">
+        <b>LENGUAJE Y COMPILADORES</b><br /><br />
         <a href="https://github.com/darios9/olc1_proyecto2_201905487">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=darios9&repo=olc1_proyecto2_201905487&theme=algolia&show_owner=false" />
         </a>
       </td>
-      <td width="50%" align="center">
-        <b>Lenguajes Formales y de Programación</b><br />
+      <td width="50%" align="center" valign="top">
+        <b>Lenguajes Formales y de Programación</b><br /><br />
         <a href="https://github.com/darios9/LFP-Proyecto1_201905487">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=darios9&repo=LFP-Proyecto1_201905487&theme=algolia&show_owner=false" />
         </a>
       </td>
-      <td width="50%" align="center">
-        <b>Estructuras de Datos</b><br />
+    </tr> 
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <b>Estructuras de Datos</b><br /><br />
         <a href="https://github.com/darios9/EDD_PROYECTO_1">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=darios9&repo=EDD_PROYECTO_1&theme=algolia&show_owner=false" />
         </a>
       </td>
-      <td width="50%" align="center">
-        <b>Introducción a la Programación 2</b><br />
+      <td width="50%" align="center" valign="top">
+        <b>Introducción a la Programación 2</b><br /><br />
         <a href="https://github.com/darios9/IPC2_Proyecto1_201905487">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=darios9&repo=IPC2_Proyecto1_201905487&theme=algolia&show_owner=false" />
         </a>
@@ -88,7 +90,6 @@
     </tr> 
   </table>
 </div>
-
 ---
 
 ## 📬 Conecta conmigo
