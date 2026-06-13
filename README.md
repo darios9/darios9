@@ -62,6 +62,12 @@
   <table>
     <tr>
       <td width="50%" align="center">
+        <b>LENGUAJE Y COMPILADORES</b><br />
+        <a href="https://github.com/darios9/olc1_proyecto2_201905487">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=darios9&repo=olc1_proyecto2_201905487&theme=algolia&show_owner=false" />
+        </a>
+      </td>
+      <td width="50%" align="center">
         <b>Lenguajes Formales y de Programación</b><br />
         <a href="https://github.com/darios9/LFP-Proyecto1_201905487">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=darios9&repo=LFP-Proyecto1_201905487&theme=algolia&show_owner=false" />
@@ -81,12 +87,7 @@
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=darios9&repo=IPC2_Proyecto1_201905487&theme=algolia&show_owner=false" />
         </a>
       </td>
-      <td width="50%" align="center">
-        <b>Laboratorio de Lenguajes</b><br />
-        <a href="https://github.com/darios9/olc1_proyecto2_201905487">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=darios9&repo=olc1_proyecto2_201905487&theme=algolia&show_owner=false" />
-        </a>
-      </td>
+      
     </tr>
   </table>
 </div>
