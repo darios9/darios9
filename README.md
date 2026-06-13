@@ -87,8 +87,8 @@
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=darios9&repo=IPC2_Proyecto1_201905487&theme=algolia&show_owner=false" />
         </a>
       </td>
-      
-    </tr>
+    </tr>  
+    
   </table>
 </div>
 
